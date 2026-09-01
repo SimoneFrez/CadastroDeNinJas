@@ -3,6 +3,8 @@ package dev.java10x.CadastroDeNinjas;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+// marca a classe principal de um app spring boot
+// mvn spring-boot:run comando para iniciar o app spring boot
 @SpringBootApplication
 public class CadastroDeNinjasApplication {
 
